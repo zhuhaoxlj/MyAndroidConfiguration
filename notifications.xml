@@ -1,0 +1,10 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Accepted language levels" displayType="STICKY_BALLOON" playSound="true" />
+    <notification groupId="AMII Info" shouldLog="false" playSound="true" />
+    <notification groupId="AMII Updates" shouldLog="false" playSound="true" />
+    <notification groupId="Build sync orphan modules" displayType="NONE" shouldLog="false" />
+    <notification groupId="Gradle Notification Group" displayType="NONE" shouldLog="false" />
+    <notification groupId="Workspace" playSound="true" />
+  </component>
+</application>
